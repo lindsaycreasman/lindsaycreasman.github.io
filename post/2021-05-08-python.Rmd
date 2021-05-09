@@ -1,0 +1,13 @@
+---
+title: Python
+author: 'Lindsay'
+date: '2021-05-08'
+slug: python
+categories: []
+tags: []
+description: ''
+---
+What I have learned about python
+```{python}
+
+```
