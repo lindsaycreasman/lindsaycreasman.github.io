@@ -7,7 +7,7 @@ categories: []
 tags: []
 description: ''
 ---
-R and python can be used interchangably with one another depending on the code and type of script. The reticulate package allows both of these systems to be used simultaneously.
+R and python can be used interchangeably with one another depending on the code and type of script. The reticulate package allows both of these systems to be used simultaneously.
 ```{r}
 library(reticulate)
 UT <- "Hook"

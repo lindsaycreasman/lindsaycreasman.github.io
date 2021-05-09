@@ -13,7 +13,8 @@
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/2021/05/08/python/</guid>
-      <description>What I have learned about python</description>
+      <description>Numpy Arrays is a package inside of python that allows you to access more functions such as using an array and manipulating it in different ways.
+import numpy as np a=np.array(range(20)) a ## array([ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, ## 17, 18, 19]) a**1/2 ## array([0. , 0.5, 1. , 1.5, 2. , 2.5, 3. , 3.5, 4.</description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/2021/05/08/r-and-python/</guid>
-      <description>R and python can be used interchangably with one another depending on the code and type of script. The reticulate package allows both of these systems to be used simultaneously.
+      <description>R and python can be used interchangeably with one another depending on the code and type of script. The reticulate package allows both of these systems to be used simultaneously.
 library(reticulate) UT &amp;lt;- &amp;quot;Hook&amp;quot; You can use the UT we created in the r script by labeling it as r.UT in python.
 UT = &amp;quot;&amp;#39;Em&amp;quot; print(r.UT,UT) ## Hook &amp;#39;Em You can use the UT created in python as py$UT in r.</description>
     </item>

@@ -7,7 +7,18 @@ categories: []
 tags: []
 description: ''
 ---
-What I have learned about python
+Numpy Arrays is a package inside of python that allows you to access more functions such as using an array and manipulating it in different ways.
 ```{python}
-
+import numpy as np
+a=np.array(range(20))
+a
+a**1/2
+```
+Strings is a method used to separate and combine various lines of code. By using the + key, we could combine the beginning and end of the sentence. Using the ' ' allowed there to be a proper space between words. printing it with /n separated the two lines.
+```{python}
+Beginning = "The cat wanted"
+End = "to drink milk"
+Beginning + End
+Beginning + ' ' + End
+print("The cat wanted \n to drink milk")
 ```
